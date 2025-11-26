@@ -1,9 +1,9 @@
 # ESPhomeMonitor Boards
-![ESPHome](/Gallery/full_stack.jpg "ESPHome ")
+
 
 # Boards
 + Main: Pico W, 3 x peak reading analogue inputs (400mV - 48V), filtered PWM output.
-
+![ESPHome Main Board](/Gallery/main_board.jpg " ESPHome Main Board")
 + Analog Input: 8 x analog inputs (3.5V - 48V) 3.81mm pluggable terminals or IDC connector.
 + Analog Input (RVR): A specialised analog input board for RVR TEX150 transmitters and TXRL/RXRL STL.
 + Digital Input: eight channels, opto-isolated or non-isolated. 3.81mm pluggable terminals or IDC connector.
