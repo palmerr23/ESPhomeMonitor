@@ -1,0 +1,39 @@
+#    interface: I2C hardware
+i2c:  
+  - id: i2c_a
+    sda: 4
+    scl: 5
+    frequency: 400kHz
+    scan: true 
+  - id: i2c_b
+    sda: 6
+    scl: 7
+    scan: true
+    frequency: 400kHz
+    
+pca9554:
+  - id: pca9544_A # Output
+    i2c_id: i2c_a
+    address: 0x20
+    
+  - id: pca9544_B # Input
+    i2c_id: i2c_a
+    address: 0x21
+
+# Output
+switch:
+  - platform: gpio
+    name: "Input Pin 0"
+    id: pca9544_A0
+    pin:
+      pca9554: pca9544_A
+      number: 0
+
+# Input
+binary_sensor:
+  - platform: gpio
+    name: "Output pin 0"
+    id: pca9544_B0
+    pin:
+      pca9554: pca9544_B
+      number: 0

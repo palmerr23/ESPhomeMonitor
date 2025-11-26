@@ -1,0 +1,33 @@
+spi:
+#  - id: spi_bus0
+  clk_pin: 2
+  mosi_pin: 3
+  miso_pin: 0
+ 
+mcp3008:    # for three boards
+  - id: mcp0  # A
+    cs_pin: 18
+    data_rate: 200kHz
+
+  - id: mcp1  # B
+    cs_pin: 19
+    data_rate: 200kHz
+
+  - id: mcp2  # C
+    cs_pin: 20
+    data_rate: 200kHz
+    
+sensor:
+# Analog input is trimmable, so volts value is arbitrary unless calibrated
+# Ch 0, Board A, Scaled to % FSD
+  - platform: mcp3008
+    mcp3008_id: mcp0
+    unit_of_measurement: "%"
+    reference_voltage: 3.0  
+    update_interval: 5s
+    name: "Analog Input 0 (%)" 
+    accuracy_decimals: 1
+    id: analog_in0
+    number: 0     
+    filters:   
+      - multiply: !lambda return 33.3; # 100%
