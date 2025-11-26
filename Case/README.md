@@ -19,7 +19,7 @@ The board at the bottom of the case has the long expansion pins on the underside
 
 + Squeegee paint into letters on bottom surface before removing either protective sheet.
 + Remove protective sheets and clean up extra paint.
-+ SHT40 mount requires 2mm screws and nuts.
++ SHT40 mount requires 2.5mm screws and nuts.
 
 ## Assembly
 
