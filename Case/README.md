@@ -8,6 +8,8 @@ Top cover and escutcheon pieces are 2mm acrylic.
 
 The base has optional strain relief provided by a length of 3mm bar bent into a U-shape and secured by two bar-holder pieces and 3mm screws and nuts.
 
+The board at the bottom of the case has the long expansion pins on the underside removed.
+
 ## Escutcheon pieces 
 + Squeegee white paint into letters on top surface before removing either protective sheet.
 + Remove rear protective sheet and spray paint black.
