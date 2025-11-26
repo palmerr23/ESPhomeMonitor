@@ -4,6 +4,7 @@ Hardware for monitoring equipment using HomeAssistant and Raspberry Pi Pico W-ba
 The boards described here are intended to be stacked, with the main Pico W board on top.
 
 A 3D printable case is provided, with custom escutcheons for each input or output board type.
+![ESPHome stack. Main board, RVR abd analogue](/gallery/full_stack.jpg "ESPHome stack. Main board, RVR and analogue")
 
 # Boards
 + Main: Pico W, 3 x peak reading analogue inputs (400mV - 48V), filtered PWM output.
