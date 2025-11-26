@@ -8,7 +8,7 @@
 ![Analog IDC](/Gallery/analog_IDC.png "Analog IDC")
 ![Analog Pluggable](/Gallery/analog_pluggable.png "Analog Pluggable")
 + Analog Input (RVR): A specialised analog input board for RVR TEX150 transmitters and TXRL/RXRL STL.
-+ ![Analog IDC](/Gallery/analog_IDC.png "Analog IDC")
++ ![Analog RVR](/Gallery/analog_RVR.png "Analog RVR")
 + Digital Input: eight channels, opto-isolated or non-isolated. 3.81mm pluggable terminals or IDC connector.
 + Digital Output: eight channels, 4 x opto-isolated + 4 x relays, or non-isolated. 3.81mm pluggable terminals or IDC connector.
 + Expander Board: Second stack and additional 3.3V regulator.
