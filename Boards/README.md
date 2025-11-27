@@ -11,11 +11,18 @@
 
 <img src="https://github.com/palmerr23/ESPhomeMonitor/blob/main/Gallery/analog_pluggable.png" width=500>
 
-![Analog IDC](/Gallery/analog_IDC.png "Analog IDC")
-![Analog Pluggable](/Gallery/analog_pluggable.png "Analog Pluggable")
 + Analog Input (RVR): A specialised analog input board for RVR TEX150 transmitters and TXRL/RXRL STL.
+<img src="https://github.com/palmerr23/ESPhomeMonitor/blob/main/Gallery/analog_RVR.png" width=500>
+
 ![Analog RVR](/Gallery/analog_RVR.png "Analog RVR")
 + Digital Input: eight channels, opto-isolated or non-isolated. 3.81mm pluggable terminals or IDC connector.
+<img src="https://github.com/palmerr23/ESPhomeMonitor/blob/main/Gallery/digital_in_IDC.png" width=500>
+
+<img src="https://github.com/palmerr23/ESPhomeMonitor/blob/main/Gallery/digital_in_pluggable.png" width=500>
+
+<img src="https://github.com/palmerr23/ESPhomeMonitor/blob/main/Gallery/digital_in_iso_IDC.png" width=500>
+
+<img src="https://github.com/palmerr23/ESPhomeMonitor/blob/main/Gallery/digital_in_iso_pluggable.png" width=500>
 ![Digital input IDC](/Gallery/digital_in_IDC.png "Digital input IDC")
 ![Digital input pluggable](/Gallery/digital_in_pluggable.png "Digital input pluggable")
 ![Digital input isolated IDC](/Gallery/digital_in_iso_IDC.png "Digital input isolated IDC")
