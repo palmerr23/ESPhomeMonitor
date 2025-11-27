@@ -5,7 +5,7 @@ The boards described here are intended to be stacked, with the main Pico W board
 
 A 3D printable case is provided, with custom escutcheons for each input or output board type.
 
-![ESPHome stack. Main board, RVR and digital](/Gallery/full_stack.jpg "ESPHome stack. Main board, RVR and digital")
+<img src="https://github.com/palmerr23/ESPhomeMonitor/blob/main/Gallery/full_stack.jpg" width=500>
 
 # Boards
 + Main: Pico W, 3 x peak reading analogue inputs (400mV - 48V), filtered PWM output.
