@@ -33,7 +33,7 @@ Case files are in STL (body) or SVG (cover and escutcheons) format.
 
 # Documentation and configuration 
 
-+ Technical overview.
++ Technical overview (HomeAssistant Monitoring and Control.pdf)
 
 + KiCAD design files and an example ESPHome configuration file for each board. 
 
