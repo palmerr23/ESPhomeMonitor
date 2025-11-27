@@ -29,7 +29,7 @@
 
 + Expander Board: Second stack and additional 3.3V regulator.
 
-<img src="https://github.com/palmerr23/ESPhomeMonitor/blob/main/Gallery/extender.png" width=500>
+<img src="https://github.com/palmerr23/ESPhomeMonitor/blob/main/Gallery/extender.png" width=300>
 
 
 
