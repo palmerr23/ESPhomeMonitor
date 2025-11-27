@@ -15,8 +15,9 @@
 ![Digital input isolated IDC](/Gallery/digital_in_iso_IDC.png "Digital input isolated IDC")
 ![Digital input isolated pluggable](/Gallery/digital_in_iso_pluggable.png "Digital input isolated pluggable")
 + Digital Output: eight channels, 4 x opto-isolated + 4 x relays, or non-isolated. 3.81mm pluggable terminals or IDC connector.
-![Digital](/Gallery/digital_out.png "Digital")
+![Digital output](/Gallery/digital_out.png "Digital output")
 + Expander Board: Second stack and additional 3.3V regulator.
+![Extender](/Gallery/extender.png "Extender")
 
 
 
