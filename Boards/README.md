@@ -3,6 +3,7 @@
 
 # Boards
 <img src="https://github.com/palmerr23/ESPhomeMonitor/blob/main/Gallery/main_board.png" width=500>
+
 + Main: Pico W, 3 x peak reading analogue inputs (400mV - 48V), filtered PWM output.
 ![ESPHome Main Board](/Gallery/main_board.png "ESPHome Main Board")
 + Analog Input: 8 x analog inputs (3.5V - 48V) 3.81mm pluggable terminals or IDC connector.
